@@ -1,4 +1,4 @@
-# OsemekeEchenim
+# Smeks-ops
 Hi there 👋
 An overview about me:
 
