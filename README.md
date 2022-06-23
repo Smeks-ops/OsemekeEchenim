@@ -2,8 +2,8 @@
 Hi there 👋
 An overview about me:
 
--	🔭 I’m currently working on Express (REST and GraphQL APIs), NodeJS, projects using JavaScript, MongoDB, MySQl, deploying on AWS, Heroku etc.
--	🌱 I’m currently learning Typescript and looking forward to learning Solidity. 
+-	🔭 I’m currently working on Express (REST and GraphQL APIs), NodeJS, projects using JavaScript and Typescript, MongoDB, MySQl, deploying on AWS, Heroku etc.
+-	🌱 I’m currently learning Bitcoin/Lightning development.
 -	👯 I’m looking to collaborate on projects that will create value for developers and organizations.
 -	🎯 I’m really big on clean and readable codebase, properly tested (unit and integration) and documented, automation (CI/CD) and following best practices.
 -	💬 Ask me about NodeJS, Express, JavaScript, Typescript, NestJs, etc.
