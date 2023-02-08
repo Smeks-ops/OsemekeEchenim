@@ -8,6 +8,6 @@ An overview about me:
 -	🎯 I’m really big on clean and readable codebase, properly tested (unit and integration) and documented, automation (CI/CD) and following best practices.
 -	💬 Ask me about NodeJS, Express, JavaScript, Typescript, NestJs, etc.
 -	📫 How to reach me: echenim.osemeke@gmail.com
--	📠 My Portfolio on: https://60d98cfc1445a84fb795bd7c--osemeke-portfolio.netlify.app/
+-	📠 My Portfolio on: https://childlike-playroom-89a.notion.site/Osemeke-Echenim-762bf63e64de4313b33083e0cc081b60
 -	🎙 On my free time, I play the drums and piano with my wife.
 -	⚡ Fun fact: I admire Cristiano Ronaldo for his work ethics and I enjoy cooking!!!
